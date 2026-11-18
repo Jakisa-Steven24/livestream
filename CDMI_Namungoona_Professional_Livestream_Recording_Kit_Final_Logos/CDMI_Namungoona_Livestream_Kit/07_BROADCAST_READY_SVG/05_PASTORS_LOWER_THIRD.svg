@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#21140f" stop-opacity=".96"/><stop offset="1" stop-color="#4a2d1c" stop-opacity=".9"/></linearGradient><linearGradient id="accent"><stop stop-color="#b77a35"/><stop offset=".5" stop-color="#f3d69a"/><stop offset="1" stop-color="#b77a35"/></linearGradient></defs>
+<rect x="90" y="850" width="1050" height="150" rx="18" fill="url(#panel)" stroke="#d2a45f" stroke-width="3"/>
+<rect x="90" y="850" width="14" height="150" rx="7" fill="url(#accent)"/>
+<text x="150" y="920" fill="#fff8eb" font-family="Montserrat,Arial,sans-serif" font-size="44" font-weight="800">PASTOR NAMABA KIZITO</text>
+<text x="150" y="970" fill="#e8c78f" font-family="Montserrat,Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="4">PASTOR</text>
+</svg>
