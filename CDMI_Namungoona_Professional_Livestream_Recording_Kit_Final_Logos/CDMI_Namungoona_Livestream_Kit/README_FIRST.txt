@@ -33,7 +33,7 @@ Use 01_WEEKLY_PROGRAMME.svg for a full-screen programme schedule. Use 02_STARTIN
 
 OBS QUICK SETUP
 1. Extract the kit and keep the folder structure intact.
-2. In OBS, add each SVG using Sources > + > Image. Browse to the SVG file.
+2. In OBS, add each SVG using Sources > + > Browser. Enable Local file, browse to the SVG, and set the Browser Source dimensions to 1920x1080. For the transparent pastors' lower third, add it as a Browser Source above the camera and keep the background transparent.
 3. Set the scene canvas to 1920x1080 (16:9). If the PC or upload connection struggles, stream at 1280x720, 30 FPS or lower.
 4. Keep the supplied logo proportional; never stretch it.
 5. For the pastors' lower third, place the camera first and the transparent SVG above it. Resize/position only if needed.
