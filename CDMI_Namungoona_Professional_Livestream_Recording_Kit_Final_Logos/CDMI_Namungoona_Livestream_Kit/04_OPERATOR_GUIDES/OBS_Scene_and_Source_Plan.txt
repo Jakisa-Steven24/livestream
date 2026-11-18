@@ -27,7 +27,7 @@ Only display a speaker's name when that person is actually on screen or speaking
 
 RECOMMENDED SCENES
 01 STARTING SOON
-  Add 07_BROADCAST_READY_SVG/02_STARTING_SOON.svg as a full-screen Image Source.
+  Add 07_BROADCAST_READY_SVG/02_STARTING_SOON.svg as a Browser Source with Local file enabled; set width 1920 and height 1080.
   Optional countdown; verify the countdown before broadcast.
 
 02 WELCOME / LIVE
