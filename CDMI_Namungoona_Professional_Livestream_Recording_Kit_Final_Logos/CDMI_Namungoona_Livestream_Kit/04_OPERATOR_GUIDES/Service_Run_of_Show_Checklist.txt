@@ -1,31 +1,48 @@
-CDMI NAMUNGOONA — LIVESTREAM RUN OF SHOW TEMPLATE
+CDMI NAMUNGOONA — LIVESTREAM RUN OF SHOW
+UPDATED 18 NOVEMBER 2026
+
+WEEKLY PROGRAMME (EAT / UTC+3)
+[ ] Tuesday — Bible Study, 5:00 PM–8:00 PM.
+[ ] Wednesday — The Siege: Standing in the Gap / Inner Man Radio, 8:00 PM–9:00 PM.
+[ ] Thursday — Midweek Service, 5:00 PM–8:00 PM.
+[ ] Sunday — English Morning Service, 8:00 AM–10:00 AM.
+[ ] Sunday — Main Service, 10:00 AM–1:00 PM.
+[ ] Sunday — Youth Service, 5:00 PM–8:00 PM.
+
+LEADERSHIP
+[ ] Pastor Namaba Kizito — verify spelling and speaker identification.
+[ ] Pastor Naome Kizito Ritah — verify spelling and speaker identification.
 
 BEFORE SERVICE (30–45 MINUTES)
 [ ] Confirm approved stream destination, title and description.
+[ ] Confirm the correct service and date from the weekly programme.
 [ ] Confirm camera framing, focus, lighting and audio feed.
-[ ] Confirm pastor/speaker names and correct spelling.
+[ ] Confirm pastor/speaker name and spelling.
 [ ] Confirm scripture reference and Bible translation.
 [ ] Check ticker and announcement wording.
-[ ] Confirm all public contact/giving details with authorised leader.
+[ ] Confirm public contact/giving details with an authorised leader; omit if not verified.
 [ ] Start a 10-minute private/unlisted test where possible.
-[ ] Check OBS Stats; no continuing encoding or network drops.
+[ ] Check OBS Stats; resolve continuing encoding or network drops.
 [ ] Start local recording in MKV and verify recording indicator.
 
 ON AIR
-[ ] Starting Soon slide.
-[ ] Switch to Welcome / opening.
-[ ] Worship camera and song title if approved.
-[ ] Sermon scene; add lower third when speaker appears.
-[ ] Scripture scene when verse is read.
+[ ] Starting Soon graphic.
+[ ] Welcome / opening scene.
+[ ] Worship camera and song title only if approved.
+[ ] Sermon/service scene; show the correct lower third when a pastor is speaking.
+[ ] Scripture scene when a verse is read.
 [ ] Announcements only when authorised and verified.
 [ ] Giving slide only with verified church-approved details.
 [ ] Closing slide and final words.
 
 AFTER SERVICE
-[ ] Stop recording and streaming in the correct order according to platform workflow.
+[ ] Stop recording and streaming using the platform workflow.
 [ ] Confirm recording file exists and plays.
 [ ] Remux MKV to MP4 in OBS if needed; retain original MKV until MP4 is checked.
 [ ] Rename file using date and service type.
 [ ] Copy master recording to a second storage location.
 [ ] Check permissions before publishing clips or full recording.
 [ ] Remove private or sensitive moments if editing for public upload.
+
+FINAL REMINDER
+The weekly schedule above is the current programme information supplied for this kit. If a service time changes, update the schedule graphic, stream description and OBS ticker together before the next broadcast.
