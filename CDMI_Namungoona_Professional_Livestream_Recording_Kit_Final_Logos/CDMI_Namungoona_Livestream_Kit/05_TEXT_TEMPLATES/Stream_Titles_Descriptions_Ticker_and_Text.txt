@@ -1,35 +1,62 @@
+CDMI NAMUNGOONA — STREAM TITLES, DESCRIPTIONS & ON-SCREEN TEXT
+UPDATED 18 NOVEMBER 2026
+
+WEEKLY PROGRAMME
+TUESDAY — Bible Study | 5:00 PM–8:00 PM
+WEDNESDAY — The Siege: Standing in the Gap | Inner Man Radio | 8:00 PM–9:00 PM
+THURSDAY — Midweek Service | 5:00 PM–8:00 PM
+SUNDAY — English Morning Service | 8:00 AM–10:00 AM
+SUNDAY — Main Service | 10:00 AM–1:00 PM
+SUNDAY — Youth Service | 5:00 PM–8:00 PM
+All times: East Africa Time (EAT / UTC+3).
+
 STREAM TITLE IDEAS
-CDMI Namungoona | Sunday Worship Service | [DATE]
-CDMI Namungoona | Midweek Service | [DATE]
-CDMI Namungoona | Prayer & Worship Service | [DATE]
-CDMI Namungoona | Overnight Prayer Service | [DATE]
-CDMI Namungoona | Special Conference | [EVENT NAME]
+CDMI Namungoona | Tuesday Bible Study | [DATE]
+CDMI Namungoona | The Siege — Standing in the Gap | Inner Man Radio | [DATE]
+CDMI Namungoona | Thursday Midweek Service | [DATE]
+CDMI Namungoona | Sunday English Morning Service | [DATE]
+CDMI Namungoona | Sunday Main Service | [DATE]
+CDMI Namungoona | Sunday Youth Service | [DATE]
 
 STREAM DESCRIPTION TEMPLATE
 Welcome to the official livestream of CDMI Namungoona.
 We are glad you are joining us. Share this broadcast with family and friends.
-Service: [SERVICE NAME]
+
+Programme: [BIBLE STUDY / RADIO PROGRAMME / MIDWEEK SERVICE / ENGLISH MORNING SERVICE / MAIN SERVICE / YOUTH SERVICE]
 Date: [DATE]
+Time: [TIME — EAT / UTC+3]
 Speaker: [PASTOR / SPEAKER]
 Scripture: [REFERENCE]
-For verified church information and programmes, use the church's approved official contact channels.
+
+Pastors: Pastor Namaba Kizito and Pastor Naome Kizito Ritah.
+For verified church information and programme updates, follow the church's approved official channels.
 May God bless you.
 
 BOTTOM TICKER OPTIONS
-WELCOME TO CDMI NAMUNGOONA • THANK YOU FOR JOINING US • SHARE THIS SERVICE
-FOLLOW THE CHURCH'S OFFICIAL CHANNELS FOR UPCOMING PROGRAMMES
-PLEASE KEEP YOUR PHONE ON SILENT DURING THE SERVICE
-GOD BLESS YOU AND YOUR FAMILY
+WELCOME TO CDMI NAMUNGOONA • THANK YOU FOR JOINING US • SHARE THIS BROADCAST
+TUESDAY: BIBLE STUDY • 5:00 PM–8:00 PM
+WEDNESDAY: THE SIEGE — STANDING IN THE GAP / INNER MAN RADIO • 8:00 PM–9:00 PM
+THURSDAY: MIDWEEK SERVICE • 5:00 PM–8:00 PM
+SUNDAY: ENGLISH MORNING SERVICE • 8:00 AM–10:00 AM
+SUNDAY: MAIN SERVICE • 10:00 AM–1:00 PM
+SUNDAY: YOUTH SERVICE • 5:00 PM–8:00 PM
+ALL TIMES EAST AFRICA TIME (EAT / UTC+3).
 
-LOWER THIRD TEMPLATE
-[PASTOR / SPEAKER NAME]
-[APPROVED TITLE / MINISTRY ROLE]
+LOWER THIRD TEXT
+PASTOR NAMABA KIZITO
+PASTOR
+
+PASTOR NAOME KIZITO RITAH
+PASTOR
 
 SCRIPTURE TEMPLATE
 “[VERSE TEXT]”
-[BOOK CHAPTER:VERSE] — [TRANSLATION]
+[BOOK CHAPTER:VERSE] — [BIBLE TRANSLATION]
 
 ANNOUNCEMENT TEMPLATE
 [PROGRAMME / EVENT]
-[DATE] • [TIME]
-[VENUE / APPROVED CONTACT]
+[DATE] • [TIME — EAT]
+[APPROVED VENUE / OFFICIAL CONTACT]
+
+GIVING
+Use only payment or giving details supplied and approved by church leadership. Do not publish unverified account or mobile money details.

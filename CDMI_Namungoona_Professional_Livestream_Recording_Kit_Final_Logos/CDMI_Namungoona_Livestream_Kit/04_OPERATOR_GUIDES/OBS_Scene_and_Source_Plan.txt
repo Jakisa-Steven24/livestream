@@ -1,65 +1,85 @@
 CDMI NAMUNGOONA — OBS SCENE & SOURCE PLAN
+UPDATED 18 NOVEMBER 2026
 
-PROFILE STARTING POINT
-- OBS Studio 33.0.1
-- 1280x720 output, 30 FPS
-- x264 Very Fast; if encoding lag persists, Superfast or reduce output to 540p/480p30
-- CBR; 2-second keyframe interval; start around 3,500 Kbps only if platform limits and upload stability support it
-- AAC 160 Kbps; 48 kHz audio
-- Recording: MKV; remux to MP4 after checking the MKV
-- Do not copy stream keys into shared files or screenshots
+VIDEO PROFILE
+- Canvas: 1920x1080 (16:9).
+- Output for reliable streaming: 1280x720, 30 FPS; use 1920x1080 only when the PC and upload connection can sustain it.
+- Encoder: hardware encoder if available and stable; otherwise x264 Veryfast. If encoding lag occurs, use Superfast or reduce output resolution.
+- Rate control: CBR; keyframe interval: 2 seconds.
+- Starting bitrate for limited/unstable internet: 2,000–3,000 Kbps. Increase only after a speed test and private stream test.
+- Audio: AAC 128 Kbps, 48 kHz.
+- Recording: MKV; remux to MP4 only after checking the MKV.
+- Never place stream keys or passwords in shared files.
 
-SCENES
+CONFIRMED WEEKLY PROGRAMME (EAT / UTC+3)
+TUESDAY       Bible Study                         5:00 PM–8:00 PM
+WEDNESDAY     The Siege — Standing in the Gap
+              Inner Man Radio                      8:00 PM–9:00 PM
+THURSDAY      Midweek Service                     5:00 PM–8:00 PM
+SUNDAY        English Morning Service             8:00 AM–10:00 AM
+SUNDAY        Main Service                        10:00 AM–1:00 PM
+SUNDAY        Youth Service                       5:00 PM–8:00 PM
+
+LEADERSHIP LOWER THIRDS
+- Pastor Namaba Kizito — Pastor
+- Pastor Naome Kizito Ritah — Pastor
+Only display a speaker's name when that person is actually on screen or speaking. Do not infer additional titles.
+
+RECOMMENDED SCENES
 01 STARTING SOON
-  Background: 01_STARTING_SOON.png
-  Add soft instrumental music only if church has permission to use it.
-  Add either supplied CDMI logo version, choosing the full lockup or circular emblem to suit the scene; add countdown only if tested.
+  Add 07_BROADCAST_READY_SVG/02_STARTING_SOON.svg as a full-screen Image Source.
+  Optional countdown; verify the countdown before broadcast.
 
-02 WELCOME
-  Camera wide shot
-  Watermark in top-right
-  LIVE badge in top-left
-  Bottom ticker: welcome/share message
+02 WELCOME / LIVE
+  Camera wide shot; add 03_WELCOME_LIVE.svg as full-screen background or use the LIVE badge overlay.
+  Add the supplied church logo as a proportional watermark. Keep the ticker clear of faces and captions.
 
 03 WORSHIP
-  Camera/wide shot
-  LIVE badge + discreet watermark
-  Optional song title only; do not display unlicensed lyrics.
+  Camera/wide shot; discreet logo watermark and LIVE badge.
+  Show song title only if approved. Do not display unlicensed lyrics.
 
 04 MAIN SERMON
-  Main camera
-  LIVE badge + watermark
-  Speaker lower third when speaker changes
-  Ticker on bottom, not covering faces or captions.
+  Main camera; add the transparent 05_PASTORS_LOWER_THIRD.svg above the camera when either pastor is speaking.
+  Change or hide the lower third when the speaker changes.
 
 05 SCRIPTURE
-  Camera plus Scripture_Panel_Blank.png or a full-screen Scripture slide
-  Large readable verse and reference; confirm translation.
+  Camera plus supplied blank scripture panel or a full-screen scripture slide.
+  Use large readable verse text and state the Bible translation.
 
-06 ANNOUNCEMENTS
-  04_ANNOUNCEMENTS_TEMPLATE.png
-  Replace template text with verified programme details.
+06 WEEKLY PROGRAMME
+  Add 07_BROADCAST_READY_SVG/01_WEEKLY_PROGRAMME.svg as a full-screen Image Source for programme announcements.
 
-07 GIVING
-  05_GIVING_TEMPLATE.png
-  Use only church-approved, verified giving details.
+07 WEDNESDAY RADIO
+  Add 07_BROADCAST_READY_SVG/04_RADIO_PROGRAMME.svg for The Siege — Standing in the Gap / Inner Man Radio, Wednesdays 8–9 PM.
 
-08 CLOSING
-  06_THANK_YOU.png
-  Stop stream only after the closing message and final check.
+08 ANNOUNCEMENTS
+  Use the supplied announcements slide. Publish only leadership-approved, current information.
 
-SOURCE STACK (BOTTOM TO TOP)
+09 GIVING
+  Use the existing giving slide only after inserting verified, church-approved details. Never invent or reuse unverified payment information.
+
+10 CLOSING
+  Use the supplied thank-you slide; stop stream after final words and platform checks.
+
+SOURCE ORDER (BOTTOM TO TOP)
 - Camera/background
-- Panel/background graphics
-- Logo/watermark
-- Speaker name/title
-- Scripture/ticker text
-- LIVE badge
+- Full-screen background or panel
+- Church logo/watermark
+- Scripture or announcement text
+- Pastors' lower third
+- LIVE badge / ticker
 
-FILTERS
-MICROPHONE: Noise Suppression (light) → Expander OR Noise Gate (gentle) → Compressor (moderate) → Limiter (ceiling around -1 dB).
-CAMERA: correct lighting and white balance first; mild Color Correction only if needed; Crop/Pad for framing; Chroma Key only for green screen.
-TICKER: Scroll filter on the text source. Keep the speed slow enough to read.
+AUDIO
+Microphone: light noise suppression → gentle expander/noise gate → moderate compressor → limiter (ceiling near -1 dB).
+Camera: correct lighting and white balance first; apply mild correction only if needed.
+Listen to a test recording with headphones. Avoid aggressive noise suppression that damages speech.
+
+NETWORK & PERFORMANCE
+- Use wired Ethernet where possible; otherwise keep the streaming device close to the router and minimise other network traffic.
+- Run a private/unlisted test before each service.
+- OBS View > Stats: watch dropped frames (network), rendering lag and encoding lag.
+- If network drops rise, reduce bitrate. If encoding/rendering lag rises, reduce output resolution/FPS or encoder load.
+- A stable 720p stream is better than a repeatedly interrupted 1080p stream.
 
 IMPORTANT
-Filter values depend on the actual microphone, room, mixer and PC. Listen to a recording before the public stream. Use OBS View > Stats to monitor encoding lag, rendering lag and network dropped frames.
+Preview every scene and check safe margins on the actual output. Confirm spelling, programme times, Bible translation, media permissions and approved public details before going live.

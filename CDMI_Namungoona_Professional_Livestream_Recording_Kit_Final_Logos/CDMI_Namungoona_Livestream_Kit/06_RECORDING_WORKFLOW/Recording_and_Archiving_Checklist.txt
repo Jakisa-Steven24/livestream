@@ -1,4 +1,5 @@
 CDMI NAMUNGOONA — RECORDING & ARCHIVE WORKFLOW
+UPDATED 18 NOVEMBER 2026
 
 RECOMMENDED FILE FORMAT
 - Record to MKV in OBS for crash resilience.
@@ -7,13 +8,17 @@ RECOMMENDED FILE FORMAT
 
 FILE NAMING
 YYYY-MM-DD_CDMI_[SERVICE]_[CAMERA/PROGRAM].mkv
-Example: 2026-11-22_CDMI_Sunday_Service_Master.mkv
+Examples:
+2026-11-24_CDMI_Tuesday_Bible_Study_Master.mkv
+2026-11-25_CDMI_The_Siege_Inner_Man_Radio.mkv
+2026-11-26_CDMI_Thursday_Midweek_Service_Master.mkv
+2026-11-29_CDMI_Sunday_Main_Service_Master.mkv
 
 FOLDER STRUCTURE
 CDMI_RECORDINGS/
   2026/
     2026-11/
-      2026-11-22_Sunday_Service/
+      [YYYY-MM-DD]_[SERVICE]/
         MASTER_MKV/
         MP4_EXPORT/
         SHORT_CLIPS/
@@ -33,3 +38,4 @@ PUBLISHING
 - Confirm rights for music and any third-party video/graphics.
 - Check title, date, speaker, scripture and thumbnail.
 - Review the full recording or an approved edit before publishing.
+- Check that the public description matches the correct weekly programme.

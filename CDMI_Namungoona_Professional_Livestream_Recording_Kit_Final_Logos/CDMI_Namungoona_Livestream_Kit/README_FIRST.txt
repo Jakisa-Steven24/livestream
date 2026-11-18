@@ -1,48 +1,53 @@
 CDMI NAMUNGOONA — LIVESTREAM & RECORDING STARTER KIT
+UPDATED: 18 NOVEMBER 2026
 
-IMPORTANT BRANDING NOTE
-The branding folder contains BOTH church logo images supplied for this kit: (1) the full lockup with the INTERNATIONAL / scripture text below, and (2) the circular emblem. Both are included in JPG, PNG, SVG, and faded watermark formats. Choose the version that fits each OBS scene or slide. These are the supplied source images; their original resolution and visible softness have been preserved as closely as practical. The livestream slide palette remains a production design choice and has not been confirmed as an official church colour standard.
+LEADERSHIP
+Senior Pastor: Pastor Namaba Kizito
+Pastor: Pastor Naome Kizito Ritah
+
+CONFIRMED WEEKLY PROGRAMME
+Tuesday       Bible Study                         5:00 PM–8:00 PM
+Wednesday     The Siege — Standing in the Gap
+              Inner Man Radio                      8:00 PM–9:00 PM
+Thursday      Midweek Service                     5:00 PM–8:00 PM
+Sunday        English Morning Service             8:00 AM–10:00 AM
+Sunday        Main Service                        10:00 AM–1:00 PM
+Sunday        Youth Service                       5:00 PM–8:00 PM
+
+All times are local church time (East Africa Time, EAT / UTC+3).
+
+BRANDING
+The 01_BRANDING folder contains the church logo files supplied with this kit. Use the original logo artwork without stretching, recolouring or redrawing it. The new broadcast graphics are designed in a warm dark-brown, cream and gold palette. Confirm official brand colours with church leadership before treating this palette as the formal identity.
 
 WHAT IS INCLUDED
-01_BRANDING
-- Both supplied church logo versions in JPG, PNG and SVG formats
-- Faded watermark versions of both supplied logos
+01_BRANDING — supplied church logo versions and watermark assets.
+02_OBS_OVERLAYS — existing PNG overlays (LIVE badge, lower third, ticker and scripture panel).
+03_STREAM_SLIDES — existing 16:9 PNG slides.
+04_OPERATOR_GUIDES — operator handbook, OBS scene/source plan and run-of-show checklist.
+05_TEXT_TEMPLATES — stream titles, descriptions, ticker and text templates.
+06_RECORDING_WORKFLOW — recording and archiving checklist.
+07_BROADCAST_READY_SVG — scalable 1920x1080 SVG broadcast slides and transparent lower-third overlay, ready to add to OBS as Image Sources.
 
-02_OBS_OVERLAYS
-- LIVE ON AIR badge
-- Speaker lower-third graphic
-- Bottom ticker background
-- Blank scripture panel
+WEEKLY PROGRAMME GRAPHIC
+Use 01_WEEKLY_PROGRAMME.svg for a full-screen programme schedule. Use 02_STARTING_SOON.svg before the service and 03_WELCOME_LIVE.svg when the broadcast begins. Use 04_RADIO_PROGRAMME.svg to promote Wednesday's radio programme. Use 05_PASTORS_LOWER_THIRD.svg as a transparent overlay when the pastors are on screen.
 
-03_STREAM_SLIDES
-- Starting Soon, Welcome, Scripture, Announcements, Giving and Thank You 16:9 slides
+OBS QUICK SETUP
+1. Extract the kit and keep the folder structure intact.
+2. In OBS, add each SVG using Sources > + > Image. Browse to the SVG file.
+3. Set the scene canvas to 1920x1080 (16:9). If the PC or upload connection struggles, stream at 1280x720, 30 FPS or lower.
+4. Keep the supplied logo proportional; never stretch it.
+5. For the pastors' lower third, place the camera first and the transparent SVG above it. Resize/position only if needed.
+6. Preview every scene before going live. Confirm that text is readable on the actual programme output.
 
-04_OPERATOR_GUIDES
-- CDMI operator handbook (DOCX)
-- OBS scene and source plan (TXT)
-- Service run-of-show template (TXT)
+STREAMING STABILITY
+For an unstable or limited internet connection, start at 1280x720, 30 FPS and 2,000–3,000 Kbps CBR, 2-second keyframes, AAC 128 Kbps. Run a private/unlisted test and check OBS Stats. Reduce bitrate/resolution if dropped frames continue. Do not assume a 3,500 Kbps stream is safe without an upload-speed test.
 
-05_TEXT_TEMPLATES
-- Stream title/description templates
-- Ticker text examples
-- Scripture/lower-third text template
+IMPORTANT BEFORE PUBLIC STREAMING
+- Confirm the official streaming destination and account.
+- Use only church-approved giving details; none are included in these graphics.
+- Verify any contact details and social handles before publishing.
+- Confirm the Bible translation and permissions for lyrics, music and third-party media.
+- Obtain leadership approval before publishing recordings, announcements or images of children.
+- Never put stream keys, passwords or private prayer/counselling details in public files.
 
-06_RECORDING_WORKFLOW
-- Recording and post-service checklist
-- File naming and backup workflow
-
-IMPORTANT ITEMS TO CONFIRM BEFORE PUBLIC STREAMING
-- Official CDMI logo and approved brand colours
-- Official church YouTube/Facebook destination and stream account
-- Correct service times, church address/contact details and approved social handles
-- Approved giving details (do not publish unverified payment information)
-- Bible translation and permissions/licensing for any song lyrics or third-party music
-- Names/titles of pastors and speakers for lower thirds
-- Who is authorised to approve public announcements and publish recordings
-
-KNOWN CONTEXT FROM PREVIOUS CDMI MATERIALS
-- A Wednesday radio programme was previously described as 8:00–9:00 PM with Pastor Kizito. Confirm whether this is still current and whether it should be promoted in the livestream.
-- Previous church materials included youth conference, youth prayer/fasting and Care Ring activities. Verify current dates before using them on air.
-
-PUBLIC LISTING CHECK
-A public map/business listing identifies “CDMI Church, Namungoona” in Kampala and lists phone +256 776 502625. Public listings can be outdated or inaccurate; verify directly with church leadership before publishing the number or relying on it as an official contact.
+The weekly programme and pastor names above were supplied for this update. Confirm any future changes with church leadership before reusing or reposting the graphics.
