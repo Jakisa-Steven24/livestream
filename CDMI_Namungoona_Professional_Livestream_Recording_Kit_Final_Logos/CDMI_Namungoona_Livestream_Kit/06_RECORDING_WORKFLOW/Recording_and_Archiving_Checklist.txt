@@ -1,0 +1,35 @@
+CDMI NAMUNGOONA — RECORDING & ARCHIVE WORKFLOW
+
+RECOMMENDED FILE FORMAT
+- Record to MKV in OBS for crash resilience.
+- After recording, use OBS File > Remux Recordings to create MP4 if needed.
+- Keep the MKV master until the MP4 has been checked.
+
+FILE NAMING
+YYYY-MM-DD_CDMI_[SERVICE]_[CAMERA/PROGRAM].mkv
+Example: 2026-11-22_CDMI_Sunday_Service_Master.mkv
+
+FOLDER STRUCTURE
+CDMI_RECORDINGS/
+  2026/
+    2026-11/
+      2026-11-22_Sunday_Service/
+        MASTER_MKV/
+        MP4_EXPORT/
+        SHORT_CLIPS/
+        THUMBNAILS/
+        NOTES/
+
+AFTER RECORDING
+1. Confirm file size is non-zero and playback works.
+2. Listen to the start, middle and end.
+3. Check audio/video sync.
+4. Make a second copy on another drive or secure cloud location.
+5. Keep an archive register with date, service, speaker, scripture and publishing approval.
+6. Do not upload recordings containing private counselling, prayer requests, children or sensitive information without appropriate approval and safeguards.
+
+PUBLISHING
+- Confirm church leadership approval.
+- Confirm rights for music and any third-party video/graphics.
+- Check title, date, speaker, scripture and thumbnail.
+- Review the full recording or an approved edit before publishing.

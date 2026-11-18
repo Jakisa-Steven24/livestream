@@ -1,0 +1,35 @@
+STREAM TITLE IDEAS
+CDMI Namungoona | Sunday Worship Service | [DATE]
+CDMI Namungoona | Midweek Service | [DATE]
+CDMI Namungoona | Prayer & Worship Service | [DATE]
+CDMI Namungoona | Overnight Prayer Service | [DATE]
+CDMI Namungoona | Special Conference | [EVENT NAME]
+
+STREAM DESCRIPTION TEMPLATE
+Welcome to the official livestream of CDMI Namungoona.
+We are glad you are joining us. Share this broadcast with family and friends.
+Service: [SERVICE NAME]
+Date: [DATE]
+Speaker: [PASTOR / SPEAKER]
+Scripture: [REFERENCE]
+For verified church information and programmes, use the church's approved official contact channels.
+May God bless you.
+
+BOTTOM TICKER OPTIONS
+WELCOME TO CDMI NAMUNGOONA • THANK YOU FOR JOINING US • SHARE THIS SERVICE
+FOLLOW THE CHURCH'S OFFICIAL CHANNELS FOR UPCOMING PROGRAMMES
+PLEASE KEEP YOUR PHONE ON SILENT DURING THE SERVICE
+GOD BLESS YOU AND YOUR FAMILY
+
+LOWER THIRD TEMPLATE
+[PASTOR / SPEAKER NAME]
+[APPROVED TITLE / MINISTRY ROLE]
+
+SCRIPTURE TEMPLATE
+“[VERSE TEXT]”
+[BOOK CHAPTER:VERSE] — [TRANSLATION]
+
+ANNOUNCEMENT TEMPLATE
+[PROGRAMME / EVENT]
+[DATE] • [TIME]
+[VENUE / APPROVED CONTACT]

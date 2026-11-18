@@ -1,0 +1,31 @@
+CDMI NAMUNGOONA — LIVESTREAM RUN OF SHOW TEMPLATE
+
+BEFORE SERVICE (30–45 MINUTES)
+[ ] Confirm approved stream destination, title and description.
+[ ] Confirm camera framing, focus, lighting and audio feed.
+[ ] Confirm pastor/speaker names and correct spelling.
+[ ] Confirm scripture reference and Bible translation.
+[ ] Check ticker and announcement wording.
+[ ] Confirm all public contact/giving details with authorised leader.
+[ ] Start a 10-minute private/unlisted test where possible.
+[ ] Check OBS Stats; no continuing encoding or network drops.
+[ ] Start local recording in MKV and verify recording indicator.
+
+ON AIR
+[ ] Starting Soon slide.
+[ ] Switch to Welcome / opening.
+[ ] Worship camera and song title if approved.
+[ ] Sermon scene; add lower third when speaker appears.
+[ ] Scripture scene when verse is read.
+[ ] Announcements only when authorised and verified.
+[ ] Giving slide only with verified church-approved details.
+[ ] Closing slide and final words.
+
+AFTER SERVICE
+[ ] Stop recording and streaming in the correct order according to platform workflow.
+[ ] Confirm recording file exists and plays.
+[ ] Remux MKV to MP4 in OBS if needed; retain original MKV until MP4 is checked.
+[ ] Rename file using date and service type.
+[ ] Copy master recording to a second storage location.
+[ ] Check permissions before publishing clips or full recording.
+[ ] Remove private or sensitive moments if editing for public upload.
