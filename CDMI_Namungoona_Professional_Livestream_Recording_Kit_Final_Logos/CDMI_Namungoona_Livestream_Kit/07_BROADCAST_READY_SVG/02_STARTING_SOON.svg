@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17100d"/><stop offset=".55" stop-color="#3a2419"/><stop offset="1" stop-color="#100c0a"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c08a43"/><stop offset=".5" stop-color="#f3d69a"/><stop offset="1" stop-color="#b77a35"/></linearGradient>
+</defs><rect width="1920" height="1080" fill="url(#bg)"/><circle cx="1660" cy="160" r="440" fill="none" stroke="#b9894d" stroke-opacity=".14" stroke-width="3"/><circle cx="1660" cy="160" r="350" fill="none" stroke="#b9894d" stroke-opacity=".12" stroke-width="2"/><path d="M0 890 Q500 760 960 900 T1920 850 V1080 H0Z" fill="#080605" opacity=".5"/><rect x="95" y="85" width="1730" height="910" rx="26" fill="none" stroke="url(#gold)" stroke-width="3" opacity=".75"/>
+<text x="960" y="320" fill="#e8c78f" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="600" text-anchor="middle" letter-spacing="5">CHRIST DELIVERANCE MINISTRIES INTERNATIONAL • NAMUNGOONA</text>
+<text x="960" y="500" fill="#fff8eb" font-family="Montserrat, Arial, sans-serif" font-size="112" font-weight="800" text-anchor="middle" letter-spacing="4">WE ARE STARTING</text>
+<text x="960" y="625" fill="#e8c78f" font-family="Montserrat, Arial, sans-serif" font-size="112" font-weight="800" text-anchor="middle" letter-spacing="8">SOON</text>
+<rect x="650" y="690" width="620" height="4" rx="2" fill="url(#gold)"/>
+<text x="960" y="770" fill="#fff8eb" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="400" text-anchor="middle" letter-spacing="0">Prepare your heart and worship with us</text>
+<text x="960" y="930" fill="#e8c78f" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="600" text-anchor="middle" letter-spacing="4">WELCOME • SHARE • BE BLESSED</text>
+</svg>
