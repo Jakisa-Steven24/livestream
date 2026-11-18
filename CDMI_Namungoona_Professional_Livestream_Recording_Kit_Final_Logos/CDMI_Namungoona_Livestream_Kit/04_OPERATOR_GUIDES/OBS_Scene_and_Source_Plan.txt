@@ -47,7 +47,7 @@ RECOMMENDED SCENES
   Use large readable verse text and state the Bible translation.
 
 06 WEEKLY PROGRAMME
-  Add 07_BROADCAST_READY_SVG/01_WEEKLY_PROGRAMME.svg as a full-screen Image Source for programme announcements.
+  Add 07_BROADCAST_READY_SVG/01_WEEKLY_PROGRAMME.svg as a full-screen Browser Source (Local file; 1920x1080) for programme announcements.
 
 07 WEDNESDAY RADIO
   Add 07_BROADCAST_READY_SVG/04_RADIO_PROGRAMME.svg for The Siege — Standing in the Gap / Inner Man Radio, Wednesdays 8–9 PM.
