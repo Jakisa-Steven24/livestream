@@ -50,7 +50,7 @@ RECOMMENDED SCENES
   Add 07_BROADCAST_READY_SVG/01_WEEKLY_PROGRAMME.svg as a full-screen Browser Source (Local file; 1920x1080) for programme announcements.
 
 07 WEDNESDAY RADIO
-  Add 07_BROADCAST_READY_SVG/04_RADIO_PROGRAMME.svg for The Siege — Standing in the Gap / Inner Man Radio, Wednesdays 8–9 PM.
+  Add 07_BROADCAST_READY_SVG/04_RADIO_PROGRAMME.svg as a Browser Source (Local file; 1920x1080) for The Siege — Standing in the Gap / Inner Man Radio, Wednesdays 8–9 PM.
 
 08 ANNOUNCEMENTS
   Use the supplied announcements slide. Publish only leadership-approved, current information.
